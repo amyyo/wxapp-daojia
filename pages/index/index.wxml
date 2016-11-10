@@ -1,0 +1,8 @@
+<!-- index.wxml -->
+<view class="container">
+  <view>
+    <swiper indicator-dots="true" vertical="true">
+    </swiper>
+  </view>
+  <text class="content">Hello World</text>
+</view>
