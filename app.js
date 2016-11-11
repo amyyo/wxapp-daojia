@@ -25,7 +25,7 @@ App({
       complete: function() {
         // complete
       }
-      })
+    })
   },
 
   onShow() {
