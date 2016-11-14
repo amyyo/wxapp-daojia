@@ -1,5 +1,5 @@
 /* index.wxss */
-.container{
+/*.container{
     background: #ff0;
     display: flex;
     align-items: center;
@@ -7,4 +7,4 @@
     flex-direction:row;
     width:100vw;
     height: 100vh;
-}
+}*/
